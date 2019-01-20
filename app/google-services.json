@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1058178930483",
+    "firebase_url": "https://sentiments-98483.firebaseio.com",
+    "project_id": "sentiments-98483",
+    "storage_bucket": "sentiments-98483.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058178930483:android:a32b20f1f12e8dd9",
+        "android_client_info": {
+          "package_name": "com.example.kshitijsuri.sentiments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058178930483-vo8pulu7o992240kno8cds9o9nodj73m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kshitijsuri.sentiments",
+            "certificate_hash": "a419338d50a72ed1a6901889600fbb4b79be9a1f"
+          }
+        },
+        {
+          "client_id": "1058178930483-781q24edevi02nh3up55t79amsre34a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNY19uF6AeBTFTSbuHmMZFe0k2vdjCbTY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058178930483-781q24edevi02nh3up55t79amsre34a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
